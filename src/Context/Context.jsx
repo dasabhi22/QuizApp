@@ -8,7 +8,7 @@ const table = {
     computers: 18,
     GK: 9,
     Film: 11,
-    mathematics: 19,
+    
 
     
 };
